@@ -44,6 +44,16 @@ h1 {
     color: hsl(0, 0%, 7%);
 }
 
+h1 {
+    font-weight: 800;
+    font-size: 25px;
+}
+
+p.description {
+    color: hsl(0, 0%, 50%);
+    font-weight: 600;
+}
+
 .attribution {
     margin-top: 100%;
 }
