@@ -54,6 +54,16 @@ p.description {
     font-weight: 600;
 }
 
+.author img {
+    display: inline;
+    float: left;
+}
+
+.author p {
+    float: left;
+    margin-left: 1rem;
+}
+
 .attribution {
     margin-top: 100%;
 }
