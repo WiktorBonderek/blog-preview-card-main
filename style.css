@@ -9,9 +9,17 @@ body {
     margin: 0;
 }
 
-
 h1 {
     font-size: 2rem;
+}
+
+h1 > a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 > a:hover {
+    color: hsl(47, 88%, 63%);;
 }
 
 .container {
